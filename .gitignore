@@ -1,6 +1,7 @@
 # TIC specific directories to be excluded
 /output/*
 */output/*
+*/input/*
 
 #Mac specific files
 .DS_Store
